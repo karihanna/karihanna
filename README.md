@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karihanna
-- 👀 I’m looking for Java & LAMP developers
+- 👀 I’m looking for Java & LAMP developers and UI/UX Designers
 - 🌱 Come grow with Ntiva!
 - 📫 How to reach me: careers.ntiva.com or kari.hanna@ntiva.com
 
